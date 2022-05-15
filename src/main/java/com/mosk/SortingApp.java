@@ -20,7 +20,7 @@ public class SortingApp extends Exception{
 
         System.out.println(Arrays.toString(arguments));
 
-    }//main method ends here
+    }//main method ends here.
 
     /**
      * @param array if <= 1 or > 10 throws exception.
